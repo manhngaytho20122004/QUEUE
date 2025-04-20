@@ -1,0 +1,14 @@
+C:\Users\luong\Desktop\Tự học C#\Queue\Queue\bin\Debug\net6.0\Queue.exe
+C:\Users\luong\Desktop\Tự học C#\Queue\Queue\bin\Debug\net6.0\Queue.deps.json
+C:\Users\luong\Desktop\Tự học C#\Queue\Queue\bin\Debug\net6.0\Queue.runtimeconfig.json
+C:\Users\luong\Desktop\Tự học C#\Queue\Queue\bin\Debug\net6.0\Queue.dll
+C:\Users\luong\Desktop\Tự học C#\Queue\Queue\bin\Debug\net6.0\Queue.pdb
+C:\Users\luong\Desktop\Tự học C#\Queue\Queue\obj\Debug\net6.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luong\Desktop\Tự học C#\Queue\Queue\obj\Debug\net6.0\Queue.AssemblyInfoInputs.cache
+C:\Users\luong\Desktop\Tự học C#\Queue\Queue\obj\Debug\net6.0\Queue.AssemblyInfo.cs
+C:\Users\luong\Desktop\Tự học C#\Queue\Queue\obj\Debug\net6.0\Queue.csproj.CoreCompileInputs.cache
+C:\Users\luong\Desktop\Tự học C#\Queue\Queue\obj\Debug\net6.0\Queue.dll
+C:\Users\luong\Desktop\Tự học C#\Queue\Queue\obj\Debug\net6.0\refint\Queue.dll
+C:\Users\luong\Desktop\Tự học C#\Queue\Queue\obj\Debug\net6.0\Queue.pdb
+C:\Users\luong\Desktop\Tự học C#\Queue\Queue\obj\Debug\net6.0\Queue.genruntimeconfig.cache
+C:\Users\luong\Desktop\Tự học C#\Queue\Queue\obj\Debug\net6.0\ref\Queue.dll

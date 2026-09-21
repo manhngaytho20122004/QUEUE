@@ -14,9 +14,11 @@ xếp hàng trước được mua trước, xếp hàng sau được mua sau.
  
  
  */
+using System.Reflection.Metadata;
+
 internal class Program
 {
-
+    
     private static void Main(string[] args)
     {
        Queue<string> hoso = new Queue<string>();
@@ -33,5 +35,6 @@ internal class Program
            Console.WriteLine("So luong ho so con lai: "+ hoso.Count);
             Console.WriteLine("------------------------");
         }
+        Console.WriteLine("XIn chao cac ban");
     }
 }

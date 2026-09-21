@@ -36,5 +36,8 @@ internal class Program
             Console.WriteLine("------------------------");
         }
         Console.WriteLine("XIn chao cac ban");
+        Console.WriteLine("XIn chao cac ban");
+
+
     }
 }
